@@ -3,7 +3,7 @@ import javax.json.JsonArray;
 
 
 public class Main {
-    public int main() {
+    public int sum() {
         JsonArray array;
         array = Json.createArrayBuilder()
                 .add(Json.createObjectBuilder()

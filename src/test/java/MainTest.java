@@ -18,6 +18,6 @@ class MainTest {
 
     @Test
     void main() {
-        assertEquals(400,main.main());
+        assertEquals(400,main.sum());
     }
 }
